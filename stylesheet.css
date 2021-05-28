@@ -1,0 +1,47 @@
+p{font-size:130%;padding:20px; margin:2px;}
+
+body {background-image: url('AIBG.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+         background-size: cover;
+        }                                     
+
+a:link {
+  color: rgb(51, 0, 146);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover{
+  color:rgb(67, 236, 123);
+  background-color:transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color:rgb(243, 13, 13);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.topnav{
+  background-color:rgb(24, 168, 168);
+  overflow: hidden;
+}
+
+.topnav a{
+  font-size: 120%;
+  font-family:Cambria;
+  float:left;
+  color:rgb(255, 255, 255);
+  display:block;
+  padding:25px;
+  text-decoration: none;
+
+}
+.topnav a:hover{
+  background-color: rgb(253, 142, 86) ;
+}
